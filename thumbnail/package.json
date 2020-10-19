@@ -1,0 +1,15 @@
+{
+  "name": "thumbnail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "thumbler": "^1.1.2",
+    "video-thumbnail-generator": "^1.1.3"
+  }
+}
